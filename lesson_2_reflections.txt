@@ -6,4 +6,4 @@ I can use the staging area to make sure I have one commit per logical change by 
 
 Branches would be helpful in keeping history organised by allowing different versions of the code to be worked on seperately in parallel. This could be useful for trying out new features, making different versions, and keeping a stable master branch.
 
-Diagrams help to visualise non-linear branch structures and properties like reachability and how current commits are related to the overal structure of the project.
+Diagrams help to visualise non-linear branch structures and properties like reachability and how current commits are related to the overall structure of the project.
