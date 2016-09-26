@@ -5,3 +5,5 @@ The staging area is where you can prepare your next commit. You place files that
 I can use the staging area to make sure I have one commit per logical change by using git diff --staged to compared the changes in the staging area with the most recent commit. I can also use git diff to compare the working directory with what is in the staging area to ensure all the relevent updates for one logical change have been included.
 
 Branches would be helpful in keeping history organised by allowing different versions of the code to be worked on seperately in parallel. This could be useful for trying out new features, making different versions, and keeping a stable master branch.
+
+Diagrams help to visualise non-linear branch structures and properties like reachability and how current commits are related to the overal structure of the project.
