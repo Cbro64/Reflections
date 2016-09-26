@@ -9,3 +9,5 @@ Branches would be helpful in keeping history organised by allowing different ver
 Diagrams help to visualise non-linear branch structures and properties like reachability and how current commits are related to the overall structure of the project.
 
 Merging two branches together combines the changes in each branch into a new commit. Use git branch -d BranchName to delete an unneeded branch, once all the commits have been merged. Use git merge --abort to abort a merge. Remember to checkout into the branch that you want to be merged into, or use git merge branch1 branch2 to merge branch2 into branch1.
+
+Automatic merging is helpful when there are no conflicting changes, manual merges allow the users to resolve any conflicts.
