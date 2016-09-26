@@ -1,0 +1,2 @@
+It would be good to use a remote repository to share work with others or between your own computers and workspaces. 
+It also gives you a cloud backup of your work in case your local machine stops working.
