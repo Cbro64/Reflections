@@ -1,0 +1,13 @@
+Viewing a diff between two versions of a file helped me see the bug by highlighting what had changed between a version that worked and version that didn't, since this is likely to be where the problem lies.
+
+Having easy acces to the entire history of a file could make me a more efficient programmer in the long term by allowing me to analyse its development roll back to any version required to solve bugs or test new features.
+
+The pros of manually choosing when to commit are that you can commit after logical changes and in sizes that will be usable and readable later on. It also makes more sense to add comments to commits when they are done after some logical change. A con is that it requires the coder to commit at appropriate times and avoid forgetting.
+
+Some version control systems like Git allow saving multiple files in one commit because they are built to handle projects involving many highly coupled filed, whereas Google Docs is built to handle seperate, mostly unrelated, documents.
+
+I can use the git commands git log and git diff to view the history of files by viewing every commit using git log and then comparing commits using "git dif first_id second_id".
+
+Using version control allows me to make as many changes I want and experiment with different versions and branches of the code while always being able to revert them. Without version control, a coder might be afraid to permenantly break their work by adding an experimental feature.
+
+I want to try using git as a version control system for most of my coding projects.
