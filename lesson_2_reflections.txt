@@ -1,0 +1,3 @@
+When you initialise a repository, it creates all the files required for git to operate. This happens in the directory that you run git init in. It needs to be done to tell git that it is a repository and not just a normal folder, so git knows to track changes etc.
+
+The staging area is where you can prepare your next commit. You place files that are ready to be committed into the staging area. It allows you to pick and choose which files will be in each commit, without just committing the entire directory.
