@@ -4,3 +4,5 @@ It also gives you a cloud backup of your work in case your local machine stops w
 Pulling changes manually from GitHub vs automatically is better because the version of the code that you want to publish to the public might be different from what you are currently working on. Also if other people are working on the code and pushing changes to the remote, it would be annoying having their changes constantly interferring with what you are doing.
 
 A fork is a GitHub clone of a GitHub repository on your own personal GitHub account. A clone is a copy of a repository, with an origin remote already set up. Branches are different chains of commits in a repository.
+
+The benefit of having a copy of the last known state of the remote stored locally is to resolve merge conflicts between updated branches.
