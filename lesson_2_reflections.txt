@@ -1,3 +1,5 @@
 When you initialise a repository, it creates all the files required for git to operate. This happens in the directory that you run git init in. It needs to be done to tell git that it is a repository and not just a normal folder, so git knows to track changes etc.
 
 The staging area is where you can prepare your next commit. You place files that are ready to be committed into the staging area. It allows you to pick and choose which files will be in each commit, without just committing the entire directory.
+
+I can use the staging area to make sure I have one commit per logical change by using git diff --staged to compared the changes in the staging area with the most recent commit. I can also use git diff to compare the working directory with what is in the staging area to ensure all the relevent updates for one logical change have been included.
