@@ -1,2 +1,4 @@
 It would be good to use a remote repository to share work with others or between your own computers and workspaces. 
 It also gives you a cloud backup of your work in case your local machine stops working.
+
+Pulling changes manually from GitHub vs automatically is better because the version of the code that you want to publish to the public might be different from what you are currently working on. Also if other people are working on the code and pushing changes to the remote, it would be annoying having their changes constantly interferring with what you are doing.
